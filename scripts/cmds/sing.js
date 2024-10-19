@@ -99,4 +99,3 @@ module.exports = {
         return video(api, event, args, message);
     }
 };
-      
