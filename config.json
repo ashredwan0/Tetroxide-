@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "tasfiyasaima67@gmail.com",
-    "password": "ari@1234",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -23,7 +23,7 @@
     "whiteListIds": ["100081894480123","100094189827824"],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": " 𝘼𝙣𝙘𝙚𝙨𝙩𝙤𝙧𝙨 𝘼𝙞 ",
+  "nickNameBot": " Redwan's Pet",
   "prefix": "-",
   "database": {
     "type": "mongodb",
